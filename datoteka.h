@@ -8,5 +8,6 @@
 void spremiSeriju(const Serija* s);
 void traziPoImenu(const char* ime);
 void traziPoZanru(Zanr z);
+void obrisiSeriju(const char* ime);  
 
 #endif
